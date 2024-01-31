@@ -13,3 +13,5 @@ estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha
 que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
 um relatório de todas ocupações do pensionato, por ordem de quarto,
 conforme exemplo.
+
+![image](https://github.com/JoaoVictorArantes/AtividadePOO8/assets/80133673/09671dd4-1fdf-4cb9-a363-c8b4fb95c8ca)
